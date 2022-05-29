@@ -11,6 +11,7 @@ Project for getting to know Git with support software
 - PyCharm
 - Windows v10 Pro
 
+[![alt text](https://jaktestowac.pl/wp-content/uploads/2017/10/git-landing-v3-430x297.jpg)](https://jaktestowac.pl/git/)
 
 
 
